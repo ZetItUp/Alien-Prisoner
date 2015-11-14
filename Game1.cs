@@ -96,7 +96,7 @@ namespace LudumDare32
 
             Engine.ScreenManager = new APEngine.ScreenManagers.ScreenManager();
             Engine.ScreenManager.LoadContent(Content);
-            Engine.ScreenManager.SetScreen(new APEngine.ScreenManagers.MainMenu());
+            Engine.ScreenManager.SetScreen(new APEngine.ScreenManagers.MainMenuScreen());
 
             Engine.LoadCursors();
         }

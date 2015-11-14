@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/ZetItUp/Documents/Visual Studio 2013/Projects/LudumDare32/LudumDare32/Content/Data/GFX/Fence01.png</SourceFile>
+  <SourceFile>C:/Users/ZetItUp/Documents/Visual Studio 2015/Projects/LudumDare32/LudumDare32/Content/Data/GFX/Fence01.png</SourceFile>
   <SourceTime>2015-05-06T14:25:21.6538277+02:00</SourceTime>
-  <DestFile>C:/Users/ZetItUp/Documents/Visual Studio 2013/Projects/LudumDare32/LudumDare32/Content/bin/Data/GFX/Fence01.xnb</DestFile>
-  <DestTime>2015-11-04T21:52:52.8739067+01:00</DestTime>
+  <DestFile>C:/Users/ZetItUp/Documents/Visual Studio 2015/Projects/LudumDare32/LudumDare32/Content/bin/Data/GFX/Fence01.xnb</DestFile>
+  <DestTime>2015-11-14T16:05:48.3612834+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2015-04-29T19:14:44+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/ZetItUp/Documents/Visual Studio 2013/Projects/LudumDare32/LudumDare32/Content/Data/Sounds/MenuSelect.wav</SourceFile>
+  <SourceFile>C:/Users/ZetItUp/Documents/Visual Studio 2015/Projects/LudumDare32/LudumDare32/Content/Data/Sounds/MenuSelect.wav</SourceFile>
   <SourceTime>2015-05-18T06:26:33.0530075+02:00</SourceTime>
-  <DestFile>C:/Users/ZetItUp/Documents/Visual Studio 2013/Projects/LudumDare32/LudumDare32/Content/bin/Data/Sounds/MenuSelect.xnb</DestFile>
-  <DestTime>2015-11-04T21:52:52.5216712+01:00</DestTime>
+  <DestFile>C:/Users/ZetItUp/Documents/Visual Studio 2015/Projects/LudumDare32/LudumDare32/Content/bin/Data/Sounds/MenuSelect.xnb</DestFile>
+  <DestTime>2015-11-14T16:05:48.1682723+01:00</DestTime>
   <Importer>WavImporter</Importer>
   <ImporterTime>2015-04-29T19:14:44+02:00</ImporterTime>
   <Processor>SoundEffectProcessor</Processor>

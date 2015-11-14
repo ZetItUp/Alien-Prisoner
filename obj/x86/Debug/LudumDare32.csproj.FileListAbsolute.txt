@@ -27,3 +27,5 @@ C:\Users\ZetItUp\Documents\Visual Studio 2015\Projects\LudumDare32\LudumDare32\b
 C:\Users\ZetItUp\Documents\Visual Studio 2015\Projects\LudumDare32\LudumDare32\bin\Windows\Debug\SharpDX.Direct3D9.xml
 C:\Users\ZetItUp\Documents\Visual Studio 2015\Projects\LudumDare32\LudumDare32\obj\x86\Debug\Alien Prisoner.exe
 C:\Users\ZetItUp\Documents\Visual Studio 2015\Projects\LudumDare32\LudumDare32\obj\x86\Debug\Alien Prisoner.pdb
+C:\Users\ZetItUp\Documents\Visual Studio 2015\Projects\LudumDare32\LudumDare32\bin\Windows\Debug\Newtonsoft.Json.dll
+C:\Users\ZetItUp\Documents\Visual Studio 2015\Projects\LudumDare32\LudumDare32\bin\Windows\Debug\Newtonsoft.Json.xml
