@@ -1,0 +1,14 @@
+[gossip ID="MAIN"]
+Hello there fellow prisoner!
+Would you like to answer this question?
+[choiceevents]
+[choice]Yes[next="YES"][/choice]
+[choice]No[next="EXIT"][/choice]
+[/choiceevents]
+[/gossip]
+[gossip ID="YES"]
+Thanks for choosing to answer Yes to the question!
+[choiceevents]
+[choice]Exit[next="EXIT"][/choice]
+[/choiceevents]
+[/gossip]

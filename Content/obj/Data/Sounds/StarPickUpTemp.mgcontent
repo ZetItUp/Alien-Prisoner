@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/ZetItUp/Documents/Visual Studio 2013/Projects/LudumDare32/LudumDare32/Content/Data/Sounds/StarPickUpTemp.wav</SourceFile>
+  <SourceTime>2015-06-18T22:04:02.0424143+02:00</SourceTime>
+  <DestFile>C:/Users/ZetItUp/Documents/Visual Studio 2013/Projects/LudumDare32/LudumDare32/Content/bin/Data/Sounds/StarPickUpTemp.xnb</DestFile>
+  <DestTime>2015-11-04T21:52:54.2249143+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2015-04-29T19:14:44+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2015-04-29T19:14:44+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
